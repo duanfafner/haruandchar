@@ -1,1 +1,1 @@
-# Data Analytis and Science
+# Data Analytics and Science
